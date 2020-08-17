@@ -10,6 +10,7 @@
 * **2 X 5V Power Supply**
 * **3.6V Rechargeable battery**
 * **2 X AMS1117 3.3 V Voltage Regulator**
+* **5V Solar Panel**
 
 # Implementation Tips
 
@@ -43,7 +44,7 @@
 
 # Client
 
-*The client will be connected to ap using wifi. It will hit the server's http links to update the tank water levevl and start the motor if water level is less than defined limits. Ultrasonic sensor will be connected to the ESP12 here, you can check the code to get the pins used to control them. We are putting this ESP12 in DeepSleep after updating the water level. ESP12 will wake up after 15 minutes. It will save the battery life. And we are recharging the battery using solar pannels. You can change the timing for DeepSLeep in the code. *
+*The client will be connected to ap using wifi. It will hit the server's http links to update the tank water levevl and start the motor if water level is less than defined limits. Ultrasonic sensor will be connected to the ESP12 here, you can check the code to get the pins used to control them. We are putting this ESP12 in DeepSleep after updating the water level. ESP12 will wake up after 15 minutes. It will save the battery life. And we are recharging the battery using solar panels. You can change the timing for DeepSLeep in the code.*
 
 # Enjoy Home Automation :)
 
