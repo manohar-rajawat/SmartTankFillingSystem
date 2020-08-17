@@ -44,8 +44,10 @@
 
 > This Server has a simple http server. Which is used to update level and starting motor. The client will hit the server each time it needs to update something. We have designed a simple HTML+CSS+JAVASCRIPT Homepage (192.168.1.150) Using this web page you can manually control the motor. It has built in web socket support to synchronize the data between each client in realtime.
 
+### Motor Off
 ![MotorOff](https://i.ibb.co/s6H1Dwz/MotorOff.png)
 
+### Motor On
 ![MotorOn](https://i.ibb.co/TwtQFnX/MotorOn.png)
 
 # Client
