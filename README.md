@@ -3,8 +3,8 @@
 
 # Parts
 
-**1. 3 X ESP12 Microcontroller board**
-**2. Ultrasonic Sensor**
+** 1. 3 X ESP12 Microcontroller board**
+** 2. Ultrasonic Sensor**
 **3. Relay**
 **4. 2 X 5V Power Supply**
 **5. 3.6V Rechargeable battery**
