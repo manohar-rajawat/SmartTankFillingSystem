@@ -3,12 +3,12 @@
 
 # Parts
 
-** 1. 3 X ESP12 Microcontroller board**
-** 2. Ultrasonic Sensor**
-**3. Relay**
-**4. 2 X 5V Power Supply**
-**5. 3.6V Rechargeable battery**
-**6. 2 X AMS1117 3.3 V Voltage Regulator**
+1. **3 X ESP12 Microcontroller board**
+2. **Ultrasonic Sensor**
+3. **Relay**
+4. **2 X 5V Power Supply**
+5. **3.6V Rechargeable battery**
+6. **2 X AMS1117 3.3 V Voltage Regulator**
 
 # Implementation Tips
 
