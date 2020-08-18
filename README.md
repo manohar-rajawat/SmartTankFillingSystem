@@ -1,6 +1,6 @@
 # Wireless - SmartTankFillingSystem
 
-*There were lot of solutions available of this kind but they all are wired. You need to have motor and tank in close distance to fill them. We designed this to overcome this limitation of being in close distance. With this solution you can control the motor from any place :). You don't need to put a wire directly from the the motor to tank .You can deploy this solution to the place where you need to fill the tank automatically by controlling the motor.*
+*There were lot of solutions available of this kind but they all were wired. You need to have motor and tank in close distance to fill them. We designed this to overcome this limitation of being in close distance. With this solution you can control the motor from any place :). You don't need to put a wire directly from the the motor to tank .You can deploy this solution to the place where you need to fill the tank automatically by controlling the motor.*
 
 # Parts
 
